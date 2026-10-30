@@ -68,6 +68,18 @@ Make sure the backend server is running before testing registration and login.
 6. The frontend uses the token to access protected user information.
 7. The user can log out from the dashboard.
 
+
+## 📸 Project Screenshots
+
+### Login Page
+![Nexora Login](client/public/images/login.png)
+
+### Registration Page
+![Nexora Register](client/public/images/register.png)
+
+### User Dashboard
+![Nexora Dashboard](client/public/images/dashboard.png)
+
 ## Project Structure
 
 ```text

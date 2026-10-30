@@ -157,7 +157,7 @@ Public registration should assign the standard `user` role. Do not allow people 
 
 **Avesh Kumar**
 
-Portfolio / GitHub: add your profile links here.
+ https://mellifluous-semifreddo-841a62.netlify.app/ GitHub:https://github.com/AveshKumar12.
 
 ---
 
